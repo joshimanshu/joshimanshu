@@ -1,7 +1,7 @@
 
 ## Hey, I'm Himanshu Joshi
 
-### This is my backup account previous account has been flagged https://github.com/HimanshuJ011/HimanshuJ011
+### This is my backup account previous account has been flagged https://github.com/HimanshuJ011
 <p>
   <em>
     I am a Computer Science Student and a <b>Full-StackDeveloper</b> who always try to make Contribution to open-Source projects for enhancing my <b>skills</b> and My learning and help to the Community by making contributions ...
